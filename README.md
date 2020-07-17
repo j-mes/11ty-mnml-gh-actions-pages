@@ -1,5 +1,6 @@
 # 11ty-mnml-gh-actions-pages
 ![Eleventy Build](https://github.com/j-mes/11ty-mnml-gh-actions-pages/workflows/Eleventy%20Build/badge.svg?branch=main)
+
 An Eleventy built website with GitHub Actions &amp; Pages
 
 * [Requirements](#requirements)
