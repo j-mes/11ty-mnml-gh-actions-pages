@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy --quiet",
-    "dev": "npm-run-all clean watch",
     "clean": "rimraf ./_site",
     "debug": "DEBUG=Eleventy* eleventy",
+    "dev": "npm-run-all clean watch",
     "dry-run": "eleventy --dryrun",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "eleventy --serve --port=4321"
